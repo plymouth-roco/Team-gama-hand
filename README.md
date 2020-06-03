@@ -28,4 +28,19 @@ Polyflex (flexible) filament
 ### Conclusion and further work 
  
 
+list of requirements/description of demo setting.
 
+extensive and well-explained figures, 
+
+also links to supplementary material supporting your project on the last page after the references
+
+share code, printable files, instructions and other material that helps document your project fully.
+
+
+
+
+CAD (e.g. Autodesk Fusion 360)
+2. CAM (e.g. 3D printing)
+3. Finite Element Analysis (FEA)
+5. Tensile/hardness testing
+7. Soft mechanisms and materials
