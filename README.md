@@ -38,11 +38,9 @@ Our robot also chose this design to absorb the impact by increasing the flexibil
 <img src="Images/full_hand.jpg" width="200" height="300" img align="center">
 
 ### Assembly 
-<img src="Images/2.jpg" width="100" height="100">
+This section we will show the assembly of the hand using pictures its main concept relies on the joint to assemble parts together showing how to lock the joints together.  
 
-how to lock the joint
-
-<img src="Images/lock6.jpg" width="100" height="100">
+<img src="Images/lock.png" width="100" height="100">
 
 the lock is inserted between the slots as the below figure shows
 
