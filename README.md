@@ -31,11 +31,11 @@ Our robot hand's idea is to have flexibility and design each branch to separate 
 
 <img src="Images/1.png" width="200" height="100">
 
-Thumb design play a very important role in grabbing objects with other fingers and structures. so it has a special design.
+Thumb design play a very important role in grabbing objects with other fingers and structures. so it has a special design.  
 <img src="Images/thumb_design.png" width="200" height="100">
 
-Our robot also chose this design to absorb the impact by increasing the flexibility of the part where the object touches thinner part to give it more flexibility.
-<img src="Images/full_hand.jpg" width="150" height="250">
+Our robot also chose this design to absorb the impact by increasing the flexibility of the part where the object touches thinner part to give it more flexibility.  
+<img src="Images/full_hand.jpg" width="150" height="300">
 
 ### Assembly 
 <img src="Images/2.jpg" width="100" height="100">
