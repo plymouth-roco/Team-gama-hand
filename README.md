@@ -72,20 +72,11 @@ A simulation is set to determine how mch of force needed to be applied so the fi
 <img src="Images/figer_bend.jpg"  width="200" height="150">
 
 The hand is animated to represent different gestures which the hand is capable of due to its extended degree of freedom
-<img src="Images/hand_gestures.jpg"  width="200" height="150">
-<img src="Images/hand_gesture_2.jpg"  width="300" height="200">
+<img src="Images/hand_gestures.jpg"  width="350" height="250">
+<img src="Images/hand_gesture_2.jpg"  width="350" height="250">
 
 ### Conclusion and further work 
- 
-extensive and well-explained figures, 
 
-also links to supplementary material supporting your project on the last page after the references
-
-share code, printable files, instructions and other material that helps document your project fully.
+The final goal of our design was to catch soft objects and to make it easier to assemble and disassemble fingers, so that the robot hand users could easily replace them when their hands when broken. Future and potential work will focus mainly on more fingure to mimic exactly the human hand and again more degree of freedom including the palm.  
 
 
-CAD (e.g. Autodesk Fusion 360)
-2. CAM (e.g. 3D printing)
-3. Finite Element Analysis (FEA)
-5. Tensile/hardness testing
-7. Soft mechanisms and materials
