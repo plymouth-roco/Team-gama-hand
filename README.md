@@ -8,12 +8,11 @@ This project consist of 5 important pillars which is a must for the project to b
 2) CAM (Computer Aided Manufaturing) which involves of manufacturing the product using a 3D printer and polyflex filament
 3) FEA (Finite Element Analysis) this part involves the simulation of forces applied to the hand determining its mechanical properties
 4) The use of flexible filament contributing as a part of soft mechanisms and materials resulting in flexible hand design which results in better grip of objects
-5) Performing multiple strengh test such as compressiona and tesile test
+5) Performing multiple strengh test such as compression and tesile test
 
-This repository will show how to print the hand parts, assemble them and will showing some videos in simulationshowing how the hand function
+This repository will show how to print the hand parts, assemble them and will showing some videos in simulationshowing how the hand function.
 
 ## Getting Started
-
 
 ### Prerequisites
 
@@ -26,6 +25,8 @@ Arduino uno
 ### Printing Instructions
 Use the flexible polyflex-tpu95 filament which could be found here
 https://polymaker.com/product/polyflex-tpu95/
+
+This section is crusial for successfully printing 3D flexible hand using a 3D printer which is apart of CAM process.    
 
 1) Loosen your idler before you start loading the filament  
 2) Spread a thin layer of glue on your print surface so the printed object could be easily released when done  
@@ -61,12 +62,13 @@ Every joint is inserted the same way and the process is repeated for the same pa
 ## Simulation & Testing  
 In this the designed hand is went through testing and simulation to determine the hand usability and specifications.  
 
-The filament used for printing is PolyFlex (TPU95) which has specific mechanical properties which are fed into the simulation program determining and estimating the hand properties and usability 
+The filament used for printing is PolyFlex (TPU95) which has specific mechanical properties which are fed into the simulation program determining and estimating the hand properties and usability. This is the part of FEA and tensile strengh testing of elastic materials which might be applied in application where soft robotics are needed.
 
 the first test performed was the finger bending between the joints
-<img src="Images/finger_bend.jpg" width="300" height="200">
-<img src="Images/flange_force.jpg"  width="300" height="200">
+<img src="Images/finger_bend.jpg" width="200" height="150">
+material properties is set in simulation parameters
 <img src="Images/materials_properties.jpg"  width="300" height="200">
+
 <img src="Images/hand_bend.jpg"  width="300" height="200">
 <img src="Images/full_hand.jpg"  width="300" height="200">
 <img src="Images/hand_gestures.jpg"  width="300" height="200">
@@ -74,8 +76,6 @@ the first test performed was the finger bending between the joints
 
 ### Conclusion and further work 
  
-
-
 extensive and well-explained figures, 
 
 also links to supplementary material supporting your project on the last page after the references
