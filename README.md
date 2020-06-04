@@ -62,16 +62,17 @@ Every joint is inserted the same way and the process is repeated for the same pa
 ## Simulation & Testing  
 In this the designed hand is went through testing and simulation to determine the hand usability and specifications.  
 
-The filament used for printing is PolyFlex (TPU95) which has specific mechanical properties which are fed into the simulation program determining and estimating the hand properties and usability. This is the part of FEA and tensile strengh testing of elastic materials which might be applied in application where soft robotics are needed.
+The filament used for printing is PolyFlex (TPU95) which has specific mechanical properties which are fed into the simulation program determining and estimating the hand properties and usability. This is the part of FEA and tensile strengh testing of elastic materials which might be applied in application where soft robotics are needed.  
 
-the first test performed was the finger bending between the joints
+the first test performed was the finger bending between the joints  
 <img src="Images/finger_bend.jpg" width="200" height="150">
-material properties is set in simulation parameters
-<img src="Images/materials_properties.jpg"  width="300" height="200">
+material properties is set in simulation parameters  
+<img src="Images/materials_properties.jpg"  width="200" height="150">
+A simulation is set to determine how mch of force needed to be applied so the finger won't deform permanently 
+<img src="Images/figer_bend.jpg"  width="200" height="150">
 
-<img src="Images/hand_bend.jpg"  width="300" height="200">
-<img src="Images/full_hand.jpg"  width="300" height="200">
-<img src="Images/hand_gestures.jpg"  width="300" height="200">
+The hand is animated to represent different gestures which the hand is capable of due to its extended degree of freedom
+<img src="Images/hand_gestures.jpg"  width="200" height="150">
 <img src="Images/hand_gesture_2.jpg"  width="300" height="200">
 
 ### Conclusion and further work 
@@ -81,8 +82,6 @@ extensive and well-explained figures,
 also links to supplementary material supporting your project on the last page after the references
 
 share code, printable files, instructions and other material that helps document your project fully.
-
-
 
 
 CAD (e.g. Autodesk Fusion 360)
