@@ -39,6 +39,11 @@ Our robot also chose this design to absorb the impact by increasing the flexibil
 
 ### Assembly 
 <img src="Images/2.jpg" width="100" height="100">
+
+how to lock the joint
+
+figure: locker design
+
 ### Simulation & Testing  
 In this the designed hand will go through testing and simulation to determine the designed hand usability and specifications; determining its mechanical properties. The hand is designed to be able to be 3D printed using the flexible printing filament called PolyFlex (TPU95) [1]. TPU stands for thermoplastic polyurethane with 95 shore hardness, which is a measure of the hardness of flexible materials [2]. 
 Such flexible materials yields different mechanical properties fro testing which requires extra modifications, special treatment and considerations to bare in mind. The first thing we might encounter with dealing with a flexible material is that it yields different mechanical properties unlike normal rigid nonflexible materials. Most normal materials has a ultimate tensile strength which is larger than yield strength, however in case of this flexible material it is the opposite yield strength is larger than ultimae tensile strength according to this book [3]. 
