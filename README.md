@@ -29,7 +29,7 @@ https://blog.prusaprinters.org/how-to-print-with-flexible-filament_29672/
 ### Design 
 Our robot hand's idea is to have flexibility and design each branch to separate and assemble.It has a wave structure for added grip and flexibility 
 
-<img src="Images/1.jpg" width="200" height="100">
+<img src="Images/1.png" width="200" height="100">
 
 Thumb design play a very important role in grabbing objects with other fingers and structures. so it has a special design.
 <img src="Images/thumb_design.jpg" width="200" height="100">
