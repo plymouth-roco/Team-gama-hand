@@ -40,7 +40,7 @@ Our robot also chose this design to absorb the impact by increasing the flexibil
 ### Assembly 
 This section we will show the assembly of the hand using pictures its main concept relies on the joint to assemble parts together showing how to lock the joints together.  
 
-<img src="Images/2.png" width="400" height="400">
+<img src="Images/2.jpg" width="400" height="400">
 
 the lock is inserted between the slots as the below figure shows
 
