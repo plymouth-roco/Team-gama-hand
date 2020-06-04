@@ -25,7 +25,7 @@ Such flexible materials yields different mechanical properties fro testing which
 In general thermoplastic polyurethane mechanical property varies depending on its composites. The glass filled type is used in injection and moulding whih is simlar to 3D printing or additive manufacturing method which works by adding multiple layers over each forming the required shapr no matter how complex it is. So the properties of this material are obatined from this webpage [4], this website also stores most of the properties of all material usedi manufacturing also mentioning where you can obtain it from. The most important parameters in our simulation are ultimate tensile strength, yield strength, and Modulus of elasticity.  The 3D printing filament can be found and bought from this website including its mechanical properties, printing settings, and any additional notes [5]. The website only mentions the Modulus of elasticity, Ultimate tensile strength (UTS) and elongation break.  From these data and the data obtained from the materials website [4] we can deduce the material yield strength using linear interpolation these results are an estimate for the actual material as much as possible actual printing specifications might be different.
 
 ![](Images/finger_bend.jpg) 
-<img src="Images/finger_bend.jpg" >
+<img src="Images/finger_bend.jpg" width="100" height="10">
 <img src="Images/flange_force.jpg" >
 <img src="Images/materials_properties.jpg" >
 <img src="Images/hand_bend.jpg" >
