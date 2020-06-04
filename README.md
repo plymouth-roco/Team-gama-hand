@@ -42,7 +42,11 @@ Our robot also chose this design to absorb the impact by increasing the flexibil
 
 how to lock the joint
 
-figure: locker design
+<img src="Images/lock6.jpg" width="100" height="100">
+
+the lock is inserted between the slots as the below figure shows
+
+every joint is inserted the same way onto the other joint of the rest of the hand until the full hand is assembled
 
 ### Simulation & Testing  
 In this the designed hand will go through testing and simulation to determine the designed hand usability and specifications; determining its mechanical properties. The hand is designed to be able to be 3D printed using the flexible printing filament called PolyFlex (TPU95) [1]. TPU stands for thermoplastic polyurethane with 95 shore hardness, which is a measure of the hardness of flexible materials [2]. 
