@@ -35,7 +35,7 @@ Thumb design play a very important role in grabbing objects with other fingers a
 <img src="Images/thumb_design.png" width="200" height="100">
 
 Our robot also chose this design to absorb the impact by increasing the flexibility of the part where the object touches thinner part to give it more flexibility.  
-<img src="Images/full_hand.jpg" width="150" height="300">
+<img src="Images/full_hand.jpg" width="200" height="300" align="center">
 
 ### Assembly 
 <img src="Images/2.jpg" width="100" height="100">
