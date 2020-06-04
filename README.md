@@ -67,9 +67,9 @@ The filament used for printing is PolyFlex (TPU95) which has specific mechanical
 the first test performed was the finger bending between the joints    
 <img src="Images/finger_bend.jpg" width="400" height="280">  
 Material properties is set in simulation parameters    
-<img src="Images/materials_properties.jpg"  width="200" height="150">  
+<img src="Images/materials_properties.jpg"  width="400" height="280">  
 A simulation is set to determine how mch of force needed to be applied so the finger won't deform permanently on it wave structure to determine how much compresikon force can a joint hold.   
-<img src="Images/flange_force.jpg"  width="200" height="150">  
+<img src="Images/flange_force.jpg"  width="400" height="280">  
 
 The hand is animated to represent different gestures which the hand is capable of due to its extended degree of freedom
 <img src="Images/hand_gestures.jpg"  width="350" height="250">
