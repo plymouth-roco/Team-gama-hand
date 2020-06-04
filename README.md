@@ -42,11 +42,11 @@ This section we will show the assembly of the hand using pictures its main conce
 
 <img src="Images/2.jpg" width="400" height="400">
 
-the lock is inserted between the slots as the below figure shows
+The lock in the figure below is inserted between the slots of the other joint   
 
 <img src="Images/lock.png" width="200" height="200">
 
-every joint is inserted the same way onto the other joint of the rest of the hand until the full hand is assembled
+Every joint is inserted the same way and the process is repeated for the same parts onto the other joints until the rest of the hand is fully assembled
 
 ### Simulation & Testing  
 In this the designed hand will go through testing and simulation to determine the designed hand usability and specifications; determining its mechanical properties. The hand is designed to be able to be 3D printed using the flexible printing filament called PolyFlex (TPU95) [1]. TPU stands for thermoplastic polyurethane with 95 shore hardness, which is a measure of the hardness of flexible materials [2]. 
