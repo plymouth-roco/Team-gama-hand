@@ -14,6 +14,17 @@ Polyflex (flexible) filament
 3 Strings   
 
 ### Printing Instructions
+Use the flexible polyflex-tpu95 filament which could be found here
+https://polymaker.com/product/polyflex-tpu95/
+
+1) Loosen your idler before you start loading the filament  
+2) Spread a thin layer of glue on your print surface so the printed object could be easily released when done  
+3) print very slowly, safe speed is 20mm/s  
+4) Filament should be dry as flexible filaments absorbs moisture
+5) Set less dense infill depending on how soft you would like your hand to be the less infill the softer the hand will be 
+
+For further and detailed instructions about printing flexible materials open this link  
+https://blog.prusaprinters.org/how-to-print-with-flexible-filament_29672/
 
 ### Design 
 
