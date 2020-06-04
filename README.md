@@ -27,7 +27,11 @@ For further and detailed instructions about printing flexible materials open thi
 https://blog.prusaprinters.org/how-to-print-with-flexible-filament_29672/
 
 ### Design 
+Our robot hand's idea is to have flexibility and design each branch to separate and assemble.It has a wave structure for added grip and flexibility 
 
+Our robot also chose this design to absorb the impact by increasing the flexibility of the part where the object touches thinner part to give it more flexibility.
+
+Thumb design play a very important role in grabbing objects with other fingers and structures. so it has a special design.
 ### Assembly 
 
 ### Simulation & Testing 
